@@ -3,7 +3,7 @@
 
 ## Each Partner has their *own* branch
 * Andrew Hamm -> andrew
-* Joseph Scholl -> Joe
+* Joseph Scholl -> joe
 * Quintin Weigand -> quinn
 
 ## Final Submission Files will all be merged to *master* branch
