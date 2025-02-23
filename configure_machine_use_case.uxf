@@ -70,7 +70,7 @@
   <element>
     <id>UMLActor</id>
     <coordinates>
-      <x>1150</x>
+      <x>1160</x>
       <y>530</y>
       <w>80</w>
       <h>110</h>
@@ -83,11 +83,11 @@
     <coordinates>
       <x>1020</x>
       <y>540</y>
-      <w>180</w>
+      <w>190</w>
       <h>40</h>
     </coordinates>
     <panel_attributes/>
-    <additional_attributes>10.0;20.0;160.0;20.0</additional_attributes>
+    <additional_attributes>10.0;20.0;170.0;20.0</additional_attributes>
   </element>
   <element>
     <id>Relation</id>
